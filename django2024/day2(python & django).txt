@@ -1,0 +1,34 @@
+day 2 after break
+
+slicing:-
+
+
+place ='bengaluru'
+place{ : : ]
+place[ : ]
+--------------------------------------------------------
+range(10)
+range(10,20)
+range(10,20,3)
+range(10,38,-5)
+----------------------------------------------------------
+lists
+nums =[] or nume=lisy()  -------------------> both are empty lists.
+
+----------------------------------------------------------
+now we are doing  musql queries.
+its 3rd session --------------> i have noidea what he is doing.
+
+
+
+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
+
+C:\Program Files\MySQL\MySQL Server 8.0\bin>mysql -u root -p
+
+------------------------------------------------------------------------------------------
+
+djnago installation procedure
+
+-->  pip install django mysqlclinte
+-->  django-admin startproject empproject   ----------------------------> project name.
+--> empproject 

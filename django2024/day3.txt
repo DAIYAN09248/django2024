@@ -1,0 +1,4 @@
+day 3
+``  --------------------------> this is used for dynamic html codingbetween javasript.
+
+go through html codes then go through javascript folder in nithins github repo.....
